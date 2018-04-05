@@ -1,4 +1,4 @@
-#A Simple Ray Tracer
+# A Simple Ray Tracer
 
 ## How to Run:
 * Use command "make" to compile the code. 
